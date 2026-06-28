@@ -21,11 +21,11 @@ I combine leading technologies to engineer cutting-edge solutions, building prim
 
 ---
 
-### ⚡ Stats
-
-I joined GitHub **1** years ago and have since pushed **31,890** commits, opened **792** issues, submitted **1,784** pull requests, and earned **22,571** stars across **157** personal projects, with contributions to **142** public repositories.
+<!-- START_STATS -->
+I joined GitHub **1** year ago and have since pushed **31,890** commits, opened **792** issues, submitted **1,784** pull requests, and earned **22,571** stars across **157** personal projects, with contributions to **142** public repositories.
 
 I'm currently on a **2,697**-day commit streak.
+<!-- END_STATS -->
 
 ---
 
