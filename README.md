@@ -2,7 +2,7 @@
 
 ### Hello World!
 
-👾 I'm **Bestdoom** — Axton, an AI orchestrator & developer from British Columbia, Canada.
+👾 I'm **Bestdoom** — an AI orchestrator & developer from British Columbia, Canada.
 
 🤖 I build autonomous, multi-agent systems and the infrastructure that runs them, primarily from the terminal on Arch Linux.
 
