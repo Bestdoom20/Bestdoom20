@@ -4,7 +4,7 @@
 
 👾 I'm **Bestdoom** — an AI orchestrator & developer from British Columbia, Canada.
 
- I build autonomous, multi-agent systems and the infrastructure that runs them, primarily from the terminal on Arch Linux.
+ I build autonomous, multi-agent systems and the infrastructure that runs them, on Arch Linux.
 
 [![views](https://komarev.com/ghpvc/?username=Bestdoom20&style=flat&color=313131&label=profile+views&abbreviated=true)](https://github.com/Bestdoom20)
 [![website](https://img.shields.io/badge/omvion.org-313131?style=flat&labelColor=545454)](https://omvion.org)
