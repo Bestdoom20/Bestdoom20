@@ -1,0 +1,41 @@
+name: Dynamic Profile Stats Synchronizer
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Executes daily at midnight
+  workflow_dispatch: # Allows manual trigger directly via the Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  refresh-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Allows the bot to commit updates back to your repo
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Initialize Python Environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Calculate Live Statistics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Seamlessly authenticates the Python API calls
+        run: python stats.py
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "chore: automated real-time profile metrics sync [skip ci]"
+            git push
+          else
+            echo "No variations in metrics detected. Skipping commit."
+          fi
