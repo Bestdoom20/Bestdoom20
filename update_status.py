@@ -1,3 +1,4 @@
+import os
 import re
 import urllib.request
 import json
@@ -8,19 +9,21 @@ USERNAME = "Bestdoom20"
 README_PATH = "README.md"
 
 def fetch_github_data(url):
-    req = urllib.request.Request(
-        url, 
-        headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
-    )
+    req = urllib.request.Request(url)
+    # Inject the automatic GitHub Token to authorize the request and bypass 403 blocks
+    token = os.environ.get("GITHUB_TOKEN")
+    if token:
+        req.add_header('Authorization', f'token {token}')
+    req.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)')
+    
     with urllib.request.urlopen(req) as response:
         return json.loads(response.read().decode())
 
 def main():
     try:
-        # 1. Fetch User Base Profile Data
+        # 1. Fetch User Profile Data
         user_data = fetch_github_data(f"https://api.github.com/users/{USERNAME}")
         
-        # Safely parse account age
         created_at_str = user_data["created_at"].split("T")[0]
         created_year = int(created_at_str.split("-")[0])
         current_year = datetime.datetime.now().year
@@ -28,13 +31,12 @@ def main():
         
         public_repos = user_data.get("public_repos", 0)
 
-        # 2. Fetch Repository Array to Calculate Live Stars
+        # 2. Fetch Repositories to Calculate Stars
         repos_data = fetch_github_data(f"https://api.github.com/users/{USERNAME}/repos?per_page=100")
         total_stars = sum(repo.get("stargazers_count", 0) for repo in repos_data)
         personal_projects = len(repos_data)
 
-        # 3. Baseline Fallbacks for Deep Historical Counts
-        # (GitHub's search endpoints throttle bots; we hardcode baseline metrics to protect execution)
+        # 3. Static Baseline Metrics
         total_commits = 31890
         total_issues = 792
         total_prs = 1784
@@ -56,7 +58,6 @@ def main():
         pattern = r".*?"
         replacement = f"\n{new_stats_line}\n"
         
-        # Ensure regex captures multiline layout safely
         updated_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
 
         with open(README_PATH, "w", encoding="utf-8") as f:
@@ -66,7 +67,7 @@ def main():
 
     except Exception as e:
         print(f"❌ Execution failed: {e}")
-        raise e  # Forces GitHub action logs to print the full traceback error trace
+        raise e
 
 if __name__ == "__main__":
     main()
