@@ -38,7 +38,7 @@ I'm currently on a **2**-day commit streak.
 **Languages** &nbsp;
 ![Python](https://img.shields.io/badge/Python-313131?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-313131?style=flat&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-313131?style=flat&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-313131?style=flat&logo=dotnet&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-313131?style=flat&logo=gnubash&logoColor=white)
 
 **Frameworks** &nbsp;
@@ -58,7 +58,8 @@ I'm currently on a **2**-day commit streak.
 
 **AI** &nbsp;
 ![Anthropic](https://img.shields.io/badge/Anthropic-313131?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-313131?style=flat&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-313131?style=flat&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-313131?style=flat&logo=huggingface&logoColor=white)
 
 ## 🚀 Current Projects
 
