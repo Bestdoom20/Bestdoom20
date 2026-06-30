@@ -35,31 +35,46 @@ I'm currently on a **2**-day commit streak.
 * **Environments:** Arch Linux (terminal/VS Code), Android, UI/UX design
 * **Current R&D:** Open-source AI, autonomous agent loops, and self-maintaining knowledge systems
 
-**Languages** &nbsp;
-![Python](https://img.shields.io/badge/Python-313131?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-313131?style=flat&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-313131?style=flat&logo=dotnet&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-313131?style=flat&logo=gnubash&logoColor=white)
-
-**Frameworks** &nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-313131?style=flat&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-313131?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-313131?style=flat&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-313131?style=flat&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-313131?style=flat&logo=nodedotjs&logoColor=white)
-
-**Infrastructure** &nbsp;
-![Docker](https://img.shields.io/badge/Docker-313131?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-313131?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-313131?style=flat&logo=redis&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-313131?style=flat&logo=cloudflare&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-313131?style=flat&logo=supabase&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-313131?style=flat&logo=archlinux&logoColor=white)
-
-**AI** &nbsp;
-![Anthropic](https://img.shields.io/badge/Anthropic-313131?style=flat&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-313131?style=flat&logo=googlegemini&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-313131?style=flat&logo=huggingface&logoColor=white)
+<table>
+<tr>
+<td valign="middle"><b>Languages</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Python-313131?style=flat&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/TypeScript-313131?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/C%23-313131?style=flat&logo=dotnet&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/Shell-313131?style=flat&logo=gnubash&logoColor=white" alt="Shell">
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>Frameworks</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/FastAPI-313131?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/Next.js-313131?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/React-313131?style=flat&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/Tailwind_CSS-313131?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Node.js-313131?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>Infrastructure</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Docker-313131?style=flat&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/PostgreSQL-313131?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Redis-313131?style=flat&logo=redis&logoColor=white" alt="Redis">
+<img src="https://img.shields.io/badge/Cloudflare-313131?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare">
+<img src="https://img.shields.io/badge/Supabase-313131?style=flat&logo=supabase&logoColor=white" alt="Supabase">
+<img src="https://img.shields.io/badge/Arch_Linux-313131?style=flat&logo=archlinux&logoColor=white" alt="Arch Linux">
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>AI</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Anthropic-313131?style=flat&logo=anthropic&logoColor=white" alt="Anthropic">
+<img src="https://img.shields.io/badge/Google_Gemini-313131?style=flat&logo=googlegemini&logoColor=white" alt="Google Gemini">
+<img src="https://img.shields.io/badge/Hugging_Face-313131?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face">
+</td>
+</tr>
+</table>
 
 ## 🚀 Current Projects
 
