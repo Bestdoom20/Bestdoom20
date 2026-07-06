@@ -81,8 +81,8 @@ I'm currently on a **0**-day commit streak.
 <!-- START_PROJECTS -->
 | Repository | Last Commit | Languages | Description |
 |------------|------------|-----------|-------------|
-| [snippets](https://github.com/Bestdoom20/snippets) | 2 days ago | Python | Small, reusable Python & shell utilities I reach for often. |
-| [achievements](https://github.com/Bestdoom20/achievements) | 7 days ago | — | Achievement unlocks |
+| [snippets](https://github.com/Bestdoom20/snippets) | 3 days ago | Python | Small, reusable Python & shell utilities I reach for often. |
+| [achievements](https://github.com/Bestdoom20/achievements) | 8 days ago | — | Achievement unlocks |
 | [Resonite-AgentBridge](https://github.com/Bestdoom20/Resonite-AgentBridge) | 2 months ago | C#, Shell, PowerShell | MonkeyLoader plugin: opt-in, loopback-only WebSocket bridge that lets external tooling assist the local user — within the same session permissions the user already has. Not affiliated with Yellow Dog Man Studios. |
 | [resonitelink-mod](https://github.com/Bestdoom20/resonitelink-mod) | 2 months ago | C#, Shell, PowerShell | MonkeyLoader plugin: WebSocket server giving Claude Code (and any LLM) live read/write access to a running Resonite world — slots, components, ProtoFlux, assets. Pairs with rassi0429/resolink-mcp. |
 | [adler-cli](https://github.com/Bestdoom20/adler-cli) | 2 months ago | TypeScript, CSS, Shell, PowerShell, JavaScript | ADLER CLI — Multi-model AI terminal. Routes every query to the right frontier model. An Omvion product. |
