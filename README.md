@@ -23,7 +23,7 @@ I combine leading AI models with custom tooling to engineer self-running systems
 <!-- START_STATS -->
 I joined GitHub **1** year ago and have since pushed **144** commits, opened **1** issues, submitted **28** pull requests, and earned **2** stars across **15** personal projects.
 
-I'm currently on a **1**-day commit streak.
+I'm currently on a **0**-day commit streak.
 <!-- END_STATS -->
 
 ---
@@ -81,10 +81,10 @@ I'm currently on a **1**-day commit streak.
 <!-- START_PROJECTS -->
 | Repository | Last Commit | Languages | Description |
 |------------|------------|-----------|-------------|
-| [nexus-os](https://github.com/Bestdoom20/nexus-os) | yesterday | Python, TypeScript, CSS, JavaScript, Shell, HTML, Dockerfile | Mirror of Omvion-Automations/nexus-os |
-| [omvion-website](https://github.com/Bestdoom20/omvion-website) | 3 days ago | HTML, JavaScript, CSS, Python, Shell | Direct mirror of Omvion-Automations/omvion-website (dev marketing site) |
-| [snippets](https://github.com/Bestdoom20/snippets) | 8 days ago | Python | Small, reusable Python & shell utilities I reach for often. |
-| [achievements](https://github.com/Bestdoom20/achievements) | 13 days ago | — | Achievement unlocks |
+| [nexus-os](https://github.com/Bestdoom20/nexus-os) | 2 days ago | Python, TypeScript, CSS, JavaScript, Shell, HTML, Dockerfile | Mirror of Omvion-Automations/nexus-os |
+| [omvion-website](https://github.com/Bestdoom20/omvion-website) | 4 days ago | HTML, JavaScript, CSS, Python, Shell | Direct mirror of Omvion-Automations/omvion-website (dev marketing site) |
+| [snippets](https://github.com/Bestdoom20/snippets) | 9 days ago | Python | Small, reusable Python & shell utilities I reach for often. |
+| [achievements](https://github.com/Bestdoom20/achievements) | 14 days ago | — | Achievement unlocks |
 | [Resonite-AgentBridge](https://github.com/Bestdoom20/Resonite-AgentBridge) | 2 months ago | C#, Shell, PowerShell | MonkeyLoader plugin: opt-in, loopback-only WebSocket bridge that lets external tooling assist the local user — within the same session permissions the user already has. Not affiliated with Yellow Dog Man Studios. |
 | [resonitelink-mod](https://github.com/Bestdoom20/resonitelink-mod) | 2 months ago | C#, Shell, PowerShell | MonkeyLoader plugin: WebSocket server giving Claude Code (and any LLM) live read/write access to a running Resonite world — slots, components, ProtoFlux, assets. Pairs with rassi0429/resolink-mcp. |
 <!-- END_PROJECTS -->
