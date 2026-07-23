@@ -81,11 +81,11 @@ I'm currently on a **0**-day commit streak.
 <!-- START_PROJECTS -->
 | Repository | Last Commit | Languages | Description |
 |------------|------------|-----------|-------------|
-| [glyph](https://github.com/Bestdoom20/glyph) | 3 days ago | TypeScript | GLYPH — a living kaomoji face that replaces the '...' typing dots in any AI chat |
-| [nexus-os](https://github.com/Bestdoom20/nexus-os) | 12 days ago | Python, TypeScript, CSS, JavaScript, Shell, HTML, Dockerfile | Mirror of Omvion-Automations/nexus-os |
-| [omvion-website](https://github.com/Bestdoom20/omvion-website) | 14 days ago | HTML, JavaScript, CSS, Python, Shell | Direct mirror of Omvion-Automations/omvion-website (dev marketing site) |
-| [snippets](https://github.com/Bestdoom20/snippets) | 19 days ago | Python | Small, reusable Python & shell utilities I reach for often. |
-| [achievements](https://github.com/Bestdoom20/achievements) | 24 days ago | — | Achievement unlocks |
+| [glyph](https://github.com/Bestdoom20/glyph) | 4 days ago | TypeScript | GLYPH — a living kaomoji face that replaces the '...' typing dots in any AI chat |
+| [nexus-os](https://github.com/Bestdoom20/nexus-os) | 13 days ago | Python, TypeScript, CSS, JavaScript, Shell, HTML, Dockerfile | Mirror of Omvion-Automations/nexus-os |
+| [omvion-website](https://github.com/Bestdoom20/omvion-website) | 15 days ago | HTML, JavaScript, CSS, Python, Shell | Direct mirror of Omvion-Automations/omvion-website (dev marketing site) |
+| [snippets](https://github.com/Bestdoom20/snippets) | 20 days ago | Python | Small, reusable Python & shell utilities I reach for often. |
+| [achievements](https://github.com/Bestdoom20/achievements) | 25 days ago | — | Achievement unlocks |
 | [Resonite-AgentBridge](https://github.com/Bestdoom20/Resonite-AgentBridge) | 2 months ago | C#, Shell, PowerShell | MonkeyLoader plugin: opt-in, loopback-only WebSocket bridge that lets external tooling assist the local user — within the same session permissions the user already has. Not affiliated with Yellow Dog Man Studios. |
 <!-- END_PROJECTS -->
 
