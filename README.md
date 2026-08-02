@@ -81,10 +81,10 @@ I'm currently on a **0**-day commit streak.
 <!-- START_PROJECTS -->
 | Repository | Last Commit | Languages | Description |
 |------------|------------|-----------|-------------|
-| [glyph](https://github.com/Bestdoom20/glyph) | 13 days ago | TypeScript | GLYPH — a living kaomoji face that replaces the '...' typing dots in any AI chat |
-| [nexus-os](https://github.com/Bestdoom20/nexus-os) | 22 days ago | Python, TypeScript, CSS, JavaScript, Shell, HTML, Dockerfile | Mirror of Omvion-Automations/nexus-os |
-| [omvion-website](https://github.com/Bestdoom20/omvion-website) | 24 days ago | HTML, JavaScript, CSS, Python, Shell | Direct mirror of Omvion-Automations/omvion-website (dev marketing site) |
-| [snippets](https://github.com/Bestdoom20/snippets) | 29 days ago | Python | Small, reusable Python & shell utilities I reach for often. |
+| [glyph](https://github.com/Bestdoom20/glyph) | 14 days ago | TypeScript | GLYPH — a living kaomoji face that replaces the '...' typing dots in any AI chat |
+| [nexus-os](https://github.com/Bestdoom20/nexus-os) | 23 days ago | Python, TypeScript, CSS, JavaScript, Shell, HTML, Dockerfile | Mirror of Omvion-Automations/nexus-os |
+| [omvion-website](https://github.com/Bestdoom20/omvion-website) | 25 days ago | HTML, JavaScript, CSS, Python, Shell | Direct mirror of Omvion-Automations/omvion-website (dev marketing site) |
+| [snippets](https://github.com/Bestdoom20/snippets) | 1 month ago | Python | Small, reusable Python & shell utilities I reach for often. |
 | [achievements](https://github.com/Bestdoom20/achievements) | 1 month ago | — | Achievement unlocks |
 | [Resonite-AgentBridge](https://github.com/Bestdoom20/Resonite-AgentBridge) | 3 months ago | C#, Shell, PowerShell | MonkeyLoader plugin: opt-in, loopback-only WebSocket bridge that lets external tooling assist the local user — within the same session permissions the user already has. Not affiliated with Yellow Dog Man Studios. |
 <!-- END_PROJECTS -->
