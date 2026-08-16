@@ -81,7 +81,7 @@ I'm currently on a **0**-day commit streak.
 <!-- START_PROJECTS -->
 | Repository | Last Commit | Languages | Description |
 |------------|------------|-----------|-------------|
-| [glyph](https://github.com/Bestdoom20/glyph) | 27 days ago | TypeScript | GLYPH — a living kaomoji face that replaces the '...' typing dots in any AI chat |
+| [glyph](https://github.com/Bestdoom20/glyph) | 28 days ago | TypeScript | GLYPH — a living kaomoji face that replaces the '...' typing dots in any AI chat |
 | [nexus-os](https://github.com/Bestdoom20/nexus-os) | 1 month ago | Python, TypeScript, CSS, JavaScript, Shell, HTML, Dockerfile | Mirror of Omvion-Automations/nexus-os |
 | [omvion-website](https://github.com/Bestdoom20/omvion-website) | 1 month ago | HTML, JavaScript, CSS, Python, Shell | Direct mirror of Omvion-Automations/omvion-website (dev marketing site) |
 | [snippets](https://github.com/Bestdoom20/snippets) | 1 month ago | Python | Small, reusable Python & shell utilities I reach for often. |
