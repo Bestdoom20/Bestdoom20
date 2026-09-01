@@ -84,7 +84,7 @@ I'm currently on a **0**-day commit streak.
 | [glyph](https://github.com/Bestdoom20/glyph) | 1 month ago | TypeScript | GLYPH — a living kaomoji face that replaces the '...' typing dots in any AI chat |
 | [nexus-os](https://github.com/Bestdoom20/nexus-os) | 1 month ago | Python, TypeScript, CSS, JavaScript, Shell, HTML, Dockerfile | Mirror of Omvion-Automations/nexus-os |
 | [omvion-website](https://github.com/Bestdoom20/omvion-website) | 1 month ago | HTML, JavaScript, CSS, Python, Shell | Direct mirror of Omvion-Automations/omvion-website (dev marketing site) |
-| [snippets](https://github.com/Bestdoom20/snippets) | 1 month ago | Python | Small, reusable Python & shell utilities I reach for often. |
+| [snippets](https://github.com/Bestdoom20/snippets) | 2 months ago | Python | Small, reusable Python & shell utilities I reach for often. |
 | [Resonite-AgentBridge](https://github.com/Bestdoom20/Resonite-AgentBridge) | 4 months ago | C#, Shell, PowerShell | MonkeyLoader plugin: opt-in, loopback-only WebSocket bridge that lets external tooling assist the local user — within the same session permissions the user already has. Not affiliated with Yellow Dog Man Studios. |
 | [resonitelink-mod](https://github.com/Bestdoom20/resonitelink-mod) | 4 months ago | C#, Shell, PowerShell | MonkeyLoader plugin: WebSocket server giving Claude Code (and any LLM) live read/write access to a running Resonite world — slots, components, ProtoFlux, assets. Pairs with rassi0429/resolink-mcp. |
 <!-- END_PROJECTS -->
