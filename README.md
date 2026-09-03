@@ -21,9 +21,9 @@ I combine leading AI models with custom tooling to engineer self-running systems
 ---
 
 <!-- START_STATS -->
-I joined GitHub **1** year ago and have since pushed **115** commits, opened **1** issues, submitted **11** pull requests, and earned **2** stars across **15** personal projects.
+I joined GitHub **1** year ago and have since pushed **185** commits, opened **1** issues, submitted **11** pull requests, and earned **3** stars across **16** personal projects.
 
-I'm currently on a **0**-day commit streak.
+I'm currently on a **2**-day commit streak.
 <!-- END_STATS -->
 
 ---
@@ -81,12 +81,12 @@ I'm currently on a **0**-day commit streak.
 <!-- START_PROJECTS -->
 | Repository | Last Commit | Languages | Description |
 |------------|------------|-----------|-------------|
+| [refract-vr](https://github.com/Bestdoom20/refract-vr) | today | C#, Shell | Universal VR injector that profiles a game's properties (camera topology, UI topology, interaction archetype, inventory model, input map) and auto-configures the injection to match. |
 | [glyph](https://github.com/Bestdoom20/glyph) | 1 month ago | TypeScript | GLYPH — a living kaomoji face that replaces the '...' typing dots in any AI chat |
 | [nexus-os](https://github.com/Bestdoom20/nexus-os) | 1 month ago | Python, TypeScript, CSS, JavaScript, Shell, HTML, Dockerfile | Mirror of Omvion-Automations/nexus-os |
 | [omvion-website](https://github.com/Bestdoom20/omvion-website) | 1 month ago | HTML, JavaScript, CSS, Python, Shell | Direct mirror of Omvion-Automations/omvion-website (dev marketing site) |
 | [snippets](https://github.com/Bestdoom20/snippets) | 2 months ago | Python | Small, reusable Python & shell utilities I reach for often. |
 | [Resonite-AgentBridge](https://github.com/Bestdoom20/Resonite-AgentBridge) | 4 months ago | C#, Shell, PowerShell | MonkeyLoader plugin: opt-in, loopback-only WebSocket bridge that lets external tooling assist the local user — within the same session permissions the user already has. Not affiliated with Yellow Dog Man Studios. |
-| [resonitelink-mod](https://github.com/Bestdoom20/resonitelink-mod) | 4 months ago | C#, Shell, PowerShell | MonkeyLoader plugin: WebSocket server giving Claude Code (and any LLM) live read/write access to a running Resonite world — slots, components, ProtoFlux, assets. Pairs with rassi0429/resolink-mcp. |
 <!-- END_PROJECTS -->
 
 > Auto-updated daily from my most recently active repositories.
