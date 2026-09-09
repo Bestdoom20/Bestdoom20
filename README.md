@@ -21,7 +21,7 @@ I combine leading AI models with custom tooling to engineer self-running systems
 ---
 
 <!-- START_STATS -->
-I joined GitHub **1** year ago and have since pushed **354** commits, opened **1** issues, submitted **11** pull requests, and earned **3** stars across **17** personal projects.
+I joined GitHub **1** year ago and have since pushed **385** commits, opened **1** issues, submitted **11** pull requests, and earned **3** stars across **17** personal projects.
 
 I'm currently on a **7**-day commit streak.
 <!-- END_STATS -->
@@ -81,8 +81,8 @@ I'm currently on a **7**-day commit streak.
 <!-- START_PROJECTS -->
 | Repository | Last Commit | Languages | Description |
 |------------|------------|-----------|-------------|
-| [refract-vr](https://github.com/Bestdoom20/refract-vr) | today | C#, Shell, Python, C | Universal VR injector that profiles a game's properties (camera topology, UI topology, interaction archetype, inventory model, input map) and auto-configures the injection to match. |
-| [retake](https://github.com/Bestdoom20/retake) | 3 days ago | C++, Python, CMake | RETAKE - OpenXR capture and replay for Linux. Record a VR session's poses and input at the API layer, replay it without a person in the headset. |
+| [refract-vr](https://github.com/Bestdoom20/refract-vr) | yesterday | C#, Shell, Python, C | Universal VR injector that profiles a game's properties (camera topology, UI topology, interaction archetype, inventory model, input map) and auto-configures the injection to match. |
+| [retake](https://github.com/Bestdoom20/retake) | 4 days ago | C++, Python, CMake | RETAKE - OpenXR capture and replay for Linux. Record a VR session's poses and input at the API layer, replay it without a person in the headset. |
 | [glyph](https://github.com/Bestdoom20/glyph) | 1 month ago | TypeScript | GLYPH — a living kaomoji face that replaces the '...' typing dots in any AI chat |
 | [nexus-os](https://github.com/Bestdoom20/nexus-os) | 2 months ago | Python, TypeScript, CSS, JavaScript, Shell, HTML, Dockerfile | Mirror of Omvion-Automations/nexus-os |
 | [omvion-website](https://github.com/Bestdoom20/omvion-website) | 2 months ago | HTML, JavaScript, CSS, Python, Shell | Direct mirror of Omvion-Automations/omvion-website (dev marketing site) |
