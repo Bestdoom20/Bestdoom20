@@ -21,9 +21,9 @@ I combine leading AI models with custom tooling to engineer self-running systems
 ---
 
 <!-- START_STATS -->
-I joined GitHub **1** year ago and have since pushed **431** commits, opened **1** issues, submitted **11** pull requests, and earned **4** stars across **18** personal projects.
+I joined GitHub **1** year ago and have since pushed **432** commits, opened **1** issues, submitted **11** pull requests, and earned **4** stars across **18** personal projects.
 
-I'm currently on a **1**-day commit streak.
+I'm currently on a **2**-day commit streak.
 <!-- END_STATS -->
 
 ---
@@ -82,8 +82,8 @@ I'm currently on a **1**-day commit streak.
 | Repository | Last Commit | Languages | Description |
 |------------|------------|-----------|-------------|
 | [refract-sdk](https://github.com/Bestdoom20/refract-sdk) | yesterday | C#, Shell, Python, ShaderLab | REFRACT SDK — engine-agnostic core with thin per-engine translation layers (Unity first, then Godot and Unreal). Ships a GUI installer and a UPM package. |
-| [refract-vr](https://github.com/Bestdoom20/refract-vr) | 9 days ago | C#, Shell, Python, JavaScript, C, PowerShell, Ruby | Universal VR injector that profiles a game's properties (camera topology, UI topology, interaction archetype, inventory model, input map) and auto-configures the injection to match. |
-| [retake](https://github.com/Bestdoom20/retake) | 15 days ago | C++, Python, CMake | RETAKE - OpenXR capture and replay for Linux. Record a VR session's poses and input at the API layer, replay it without a person in the headset. |
+| [refract-vr](https://github.com/Bestdoom20/refract-vr) | 10 days ago | C#, Shell, Python, JavaScript, C, PowerShell, Ruby | Universal VR injector that profiles a game's properties (camera topology, UI topology, interaction archetype, inventory model, input map) and auto-configures the injection to match. |
+| [retake](https://github.com/Bestdoom20/retake) | 16 days ago | C++, Python, CMake | RETAKE - OpenXR capture and replay for Linux. Record a VR session's poses and input at the API layer, replay it without a person in the headset. |
 | [glyph](https://github.com/Bestdoom20/glyph) | 2 months ago | TypeScript | GLYPH — a living kaomoji face that replaces the '...' typing dots in any AI chat |
 | [nexus-os](https://github.com/Bestdoom20/nexus-os) | 2 months ago | Python, TypeScript, CSS, JavaScript, Shell, HTML, Dockerfile | Mirror of Omvion-Automations/nexus-os |
 | [omvion-website](https://github.com/Bestdoom20/omvion-website) | 2 months ago | HTML, JavaScript, CSS, Python, Shell | Direct mirror of Omvion-Automations/omvion-website (dev marketing site) |
