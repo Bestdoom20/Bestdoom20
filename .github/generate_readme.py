@@ -91,7 +91,8 @@ def main():
 
     # projects table: most-recently-pushed repos, all languages each
     rows = []
-    feature = [r for r in repos if r["name"].lower() != USER.lower()]
+    # public, non-fork only: private repos 404 for visitors and must not be advertised
+    feature = [r for r in repos if r["name"].lower() != USER.lower() and not r["private"] and not r["fork"]]
     for r in feature[:6]:
         langs = rest(f"/repos/{r['full_name']}/languages")
         lang = ", ".join(langs.keys()) or (r["language"] or "—")

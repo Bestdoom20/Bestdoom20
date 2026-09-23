@@ -30,10 +30,10 @@ I'm currently on a **4**-day commit streak.
 
 ### Ecosystem & Expertise
 
-* **Core Focus:** AI orchestration, multi-agent architectures, custom API development, and automation
-* **Building:** [Nexus](https://nexus.omvion.org) — one unified API for every major LLM (consolidate cost, unify keys) · [ADLER](https://github.com/Bestdoom20) (personal AI OS) · [Omvion](https://omvion.org) (AI automation platform)
-* **Environments:** Arch Linux (terminal/VS Code), Android, UI/UX design
-* **Current R&D:** Open-source AI, autonomous agent loops, and self-maintaining knowledge systems
+* **Core Focus:** AI orchestration, multi-agent architectures, custom API development, automation, and XR/VR engineering
+* **Building:** [Nexus](https://nexus.omvion.org) — one unified API for every major LLM (consolidate cost, unify keys) · [ADLER](https://github.com/Bestdoom20) (personal AI OS) · [Omvion](https://omvion.org) (AI automation platform) · **REFRACT** (universal flat-to-VR injector + engine SDK: Unity first, Godot/Unreal next) · **RETAKE** (OpenXR capture & replay for Linux) — *REFRACT and RETAKE repos are private*
+* **Environments:** CachyOS / Arch Linux (terminal/VS Code), Meta Quest 3 PCVR via WiVRn/Monado, Android, UI/UX design
+* **Current R&D:** Open-source AI, autonomous agent loops, self-maintaining knowledge systems, and runtime VR injection for flat games
 
 <table>
 <tr>
@@ -43,6 +43,8 @@ I'm currently on a **4**-day commit streak.
 <img src="https://img.shields.io/badge/TypeScript-313131?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/C%23-313131?style=flat&logo=dotnet&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/Shell-313131?style=flat&logo=gnubash&logoColor=white" alt="Shell">
+<img src="https://img.shields.io/badge/C%2B%2B-313131?style=flat&logo=cplusplus&logoColor=white" alt="C%2B%2B">
+<img src="https://img.shields.io/badge/GLSL_%2F_HLSL-313131?style=flat&logo=opengl&logoColor=white" alt="GLSL / HLSL">
 </td>
 </tr>
 <tr>
@@ -56,6 +58,22 @@ I'm currently on a **4**-day commit streak.
 </td>
 </tr>
 <tr>
+<td valign="middle"><b>XR &amp; Engines</b></td>
+<td valign="middle">
+<img src="https://img.shields.io/badge/Unity-313131?style=flat&logo=unity&logoColor=white" alt="Unity">
+<img src="https://img.shields.io/badge/OpenXR-313131?style=flat&logo=khronosgroup&logoColor=white" alt="OpenXR">
+<img src="https://img.shields.io/badge/Vulkan-313131?style=flat&logo=vulkan&logoColor=white" alt="Vulkan">
+<img src="https://img.shields.io/badge/Monado-313131?style=flat" alt="Monado">
+<img src="https://img.shields.io/badge/WiVRn-313131?style=flat" alt="WiVRn">
+<img src="https://img.shields.io/badge/Meta_Quest-313131?style=flat&logo=meta&logoColor=white" alt="Meta Quest">
+<img src="https://img.shields.io/badge/Proton-313131?style=flat&logo=steam&logoColor=white" alt="Proton">
+<img src="https://img.shields.io/badge/Wine-313131?style=flat&logo=wine&logoColor=white" alt="Wine">
+<img src="https://img.shields.io/badge/BepInEx-313131?style=flat" alt="BepInEx">
+<img src="https://img.shields.io/badge/IL2CPP_%2F_Mono-313131?style=flat" alt="IL2CPP / Mono">
+<img src="https://img.shields.io/badge/UEVR-313131?style=flat" alt="UEVR">
+</td>
+</tr>
+<tr>
 <td valign="middle"><b>Infrastructure</b></td>
 <td valign="middle">
 <img src="https://img.shields.io/badge/Docker-313131?style=flat&logo=docker&logoColor=white" alt="Docker">
@@ -63,13 +81,17 @@ I'm currently on a **4**-day commit streak.
 <img src="https://img.shields.io/badge/Redis-313131?style=flat&logo=redis&logoColor=white" alt="Redis">
 <img src="https://img.shields.io/badge/Cloudflare-313131?style=flat&logo=cloudflare&logoColor=white" alt="Cloudflare">
 <img src="https://img.shields.io/badge/Supabase-313131?style=flat&logo=supabase&logoColor=white" alt="Supabase">
+<img src="https://img.shields.io/badge/CachyOS-313131?style=flat&logo=cachyos&logoColor=white" alt="CachyOS">
 <img src="https://img.shields.io/badge/Arch_Linux-313131?style=flat&logo=archlinux&logoColor=white" alt="Arch Linux">
+<img src="https://img.shields.io/badge/CMake-313131?style=flat&logo=cmake&logoColor=white" alt="CMake">
 </td>
 </tr>
 <tr>
 <td valign="middle"><b>AI</b></td>
 <td valign="middle">
 <img src="https://img.shields.io/badge/Anthropic-313131?style=flat&logo=anthropic&logoColor=white" alt="Anthropic">
+<img src="https://img.shields.io/badge/Claude_Code-313131?style=flat&logo=claude&logoColor=white" alt="Claude Code">
+<img src="https://img.shields.io/badge/MCP-313131?style=flat&logo=modelcontextprotocol&logoColor=white" alt="MCP">
 <img src="https://img.shields.io/badge/Google_Gemini-313131?style=flat&logo=googlegemini&logoColor=white" alt="Google Gemini">
 <img src="https://img.shields.io/badge/Hugging_Face-313131?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face">
 </td>
@@ -81,15 +103,11 @@ I'm currently on a **4**-day commit streak.
 <!-- START_PROJECTS -->
 | Repository | Last Commit | Languages | Description |
 |------------|------------|-----------|-------------|
-| [refract-sdk](https://github.com/Bestdoom20/refract-sdk) | 2 days ago | C#, Shell, Python, ShaderLab | REFRACT SDK — engine-agnostic core with thin per-engine translation layers (Unity first, then Godot and Unreal). Ships a GUI installer and a UPM package. |
-| [refract-vr](https://github.com/Bestdoom20/refract-vr) | 12 days ago | C#, Shell, Python, JavaScript, C, PowerShell, Ruby | Universal VR injector that profiles a game's properties (camera topology, UI topology, interaction archetype, inventory model, input map) and auto-configures the injection to match. |
-| [retake](https://github.com/Bestdoom20/retake) | 18 days ago | C++, Python, CMake | RETAKE - OpenXR capture and replay for Linux. Record a VR session's poses and input at the API layer, replay it without a person in the headset. |
 | [glyph](https://github.com/Bestdoom20/glyph) | 2 months ago | TypeScript | GLYPH — a living kaomoji face that replaces the '...' typing dots in any AI chat |
-| [nexus-os](https://github.com/Bestdoom20/nexus-os) | 2 months ago | Python, TypeScript, CSS, JavaScript, Shell, HTML, Dockerfile | Mirror of Omvion-Automations/nexus-os |
-| [omvion-website](https://github.com/Bestdoom20/omvion-website) | 2 months ago | HTML, JavaScript, CSS, Python, Shell | Direct mirror of Omvion-Automations/omvion-website (dev marketing site) |
+| [snippets](https://github.com/Bestdoom20/snippets) | 2 months ago | Python | Small, reusable Python & shell utilities I reach for often. |
 <!-- END_PROJECTS -->
 
-> Auto-updated daily from my most recently active repositories.
+> Auto-updated daily from my most recently active public repositories.
 
 ---
 
