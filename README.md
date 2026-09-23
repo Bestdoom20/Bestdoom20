@@ -6,7 +6,7 @@
 <td>
 <h3> Hello World! 👋</h3>
 <p>👾 I'm <strong>Axton M</strong> — an XR/VR developer &amp; AI engineer from British Columbia, Canada.</p>
-<p> I build tools that bring games into VR, and the AI systems I use to build them, on Linux.</p>
+<p> I build tools that bring games into VR, and OpenXR tooling for Linux.</p>
 </td>
 </tr>
 </table>
@@ -16,7 +16,7 @@
 
 ## XR Developer & AI Engineer
 
-I run **[Omvion](https://omvion.org)**, a company that builds software and tools for developers and businesses, now focused on AR/XR. Right now that means **REFRACT**, a universal injector that brings flat games into VR, and the **REFRACT SDK**, which gives engines native VR support (Unity first, then Godot and Unreal). I build with AI at every layer: **ADLER**, my personal AI operating system, orchestrates agents across my whole stack. I work in the terminal on CachyOS, guided by one rule: *every failure is data for the next build.*
+I run **[Omvion](https://omvion.org)**, a company that builds software and tools for developers and businesses, now focused on AR/XR. Right now that means **REFRACT**, a universal injector that brings flat games into VR, and the **REFRACT SDK**, which gives engines native VR support (Unity first, then Godot and Unreal). Outside XR, I build AI systems, including **ADLER**, my personal AI operating system. I work in the terminal on CachyOS, guided by one rule: *every failure is data for the next build.*
 
 ---
 
@@ -30,7 +30,7 @@ I'm currently on a **4**-day commit streak.
 
 ### Ecosystem & Expertise
 
-* **Core Focus:** AR/XR/VR development, OpenXR runtime engineering, game injection, and AI-driven development with multi-agent orchestration
+* **Core Focus:** AR/XR/VR development, OpenXR runtime engineering, game injection, and AI systems with multi-agent orchestration
 * **Building:** **REFRACT** (universal flat-to-VR injector) · **REFRACT SDK** (engine-agnostic VR SDK: Unity first, Godot/Unreal next) — *repos are private*
 * **Tooling:** **RETAKE** (OpenXR capture & replay for Linux, private) · **ADLER** (personal AI OS)
 * **Environments:** CachyOS / Arch Linux (terminal/VS Code), Meta Quest 3 PCVR via WiVRn/Monado, Android, UI/UX design
@@ -91,7 +91,6 @@ I'm currently on a **4**-day commit streak.
 <td valign="middle"><b>AI</b></td>
 <td valign="middle">
 <img src="https://img.shields.io/badge/Anthropic-313131?style=flat&logo=anthropic&logoColor=white" alt="Anthropic">
-<img src="https://img.shields.io/badge/Claude_Code-313131?style=flat&logo=claude&logoColor=white" alt="Claude Code">
 <img src="https://img.shields.io/badge/MCP-313131?style=flat&logo=modelcontextprotocol&logoColor=white" alt="MCP">
 <img src="https://img.shields.io/badge/Google_Gemini-313131?style=flat&logo=googlegemini&logoColor=white" alt="Google Gemini">
 <img src="https://img.shields.io/badge/Hugging_Face-313131?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face">
