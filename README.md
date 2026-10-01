@@ -21,7 +21,7 @@ I run **[Omvion](https://omvion.org)**, a company that builds software and tools
 ---
 
 <!-- START_STATS -->
-I joined GitHub **1** year ago and have since pushed **873** commits, opened **1** issues, submitted **11** pull requests, and earned **4** stars across **21** personal projects.
+I joined GitHub **1** year ago and have since pushed **877** commits, opened **1** issues, submitted **11** pull requests, and earned **4** stars across **21** personal projects.
 
 I'm currently on a **2**-day commit streak.
 <!-- END_STATS -->
@@ -106,7 +106,7 @@ I'm currently on a **2**-day commit streak.
 | Repository | Last Commit | Languages | Description |
 |------------|------------|-----------|-------------|
 | [glyph](https://github.com/Bestdoom20/glyph) | 2 months ago | TypeScript | GLYPH — a living kaomoji face that replaces the '...' typing dots in any AI chat |
-| [snippets](https://github.com/Bestdoom20/snippets) | 2 months ago | Python | Small, reusable Python & shell utilities I reach for often. |
+| [snippets](https://github.com/Bestdoom20/snippets) | 3 months ago | Python | Small, reusable Python & shell utilities I reach for often. |
 <!-- END_PROJECTS -->
 
 > Auto-updated daily from my most recently active public repositories.
