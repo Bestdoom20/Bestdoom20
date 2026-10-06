@@ -33,6 +33,7 @@ I'm currently on a **2**-day commit streak.
 * **Core Focus:** AR/XR/VR development, OpenXR runtime engineering, game injection, and AI systems with multi-agent orchestration
 * **Building:** **REFRACT** (universal flat-to-VR injector) · **REFRACT SDK** (engine-agnostic VR SDK: Unity first, Godot/Unreal next) — *repos are private*
 * **Tooling:** **RETAKE** (OpenXR capture & replay for Linux, private) · **ADLER** (personal AI OS)
+* **Open source:** **[vrscan](https://github.com/Omvion-Automations/vr-readiness-scanner)**: is your game ready for VR? A free one-line scanner for game folders and Steam pages ([try it on omvion.org](https://omvion.org/vr-scan))
 * **Environments:** CachyOS / Arch Linux (terminal/VS Code), Meta Quest 3 PCVR via WiVRn/Monado, Android, UI/UX design
 * **Current R&D:** Runtime VR injection for flat games, headless XR testing, OpenXR on Linux, and autonomous agent loops
 
