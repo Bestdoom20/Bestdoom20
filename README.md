@@ -106,7 +106,7 @@ I'm currently on a **3**-day commit streak.
 <!-- START_PROJECTS -->
 | Repository | Last Commit | Languages | Description |
 |------------|------------|-----------|-------------|
-| [adler-smp-pack](https://github.com/Bestdoom20/adler-smp-pack) | today | — | ADLER SMP server resource pack |
+| [adler-smp-pack](https://github.com/Bestdoom20/adler-smp-pack) | yesterday | — | ADLER SMP server resource pack |
 | [glyph](https://github.com/Bestdoom20/glyph) | 2 months ago | TypeScript | GLYPH — a living kaomoji face that replaces the '...' typing dots in any AI chat |
 | [snippets](https://github.com/Bestdoom20/snippets) | 3 months ago | Python | Small, reusable Python & shell utilities I reach for often. |
 <!-- END_PROJECTS -->
