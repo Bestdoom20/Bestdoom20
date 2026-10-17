@@ -21,9 +21,9 @@ I run **[Omvion](https://omvion.org)**, a company that builds software and tools
 ---
 
 <!-- START_STATS -->
-I joined GitHub **1** year ago and have since pushed **1,098** commits, opened **1** issues, submitted **11** pull requests, and earned **4** stars across **23** personal projects.
+I joined GitHub **1** year ago and have since pushed **1,166** commits, opened **1** issues, submitted **11** pull requests, and earned **4** stars across **23** personal projects.
 
-I'm currently on a **2**-day commit streak.
+I'm currently on a **3**-day commit streak.
 <!-- END_STATS -->
 
 ---
@@ -106,8 +106,8 @@ I'm currently on a **2**-day commit streak.
 <!-- START_PROJECTS -->
 | Repository | Last Commit | Languages | Description |
 |------------|------------|-----------|-------------|
-| [adler-smp-pack](https://github.com/Bestdoom20/adler-smp-pack) | 5 days ago | — | ADLER SMP server resource pack |
-| [glyph](https://github.com/Bestdoom20/glyph) | 2 months ago | TypeScript | GLYPH — a living kaomoji face that replaces the '...' typing dots in any AI chat |
+| [adler-smp-pack](https://github.com/Bestdoom20/adler-smp-pack) | 6 days ago | — | ADLER SMP server resource pack |
+| [glyph](https://github.com/Bestdoom20/glyph) | 3 months ago | TypeScript | GLYPH — a living kaomoji face that replaces the '...' typing dots in any AI chat |
 | [snippets](https://github.com/Bestdoom20/snippets) | 3 months ago | Python | Small, reusable Python & shell utilities I reach for often. |
 <!-- END_PROJECTS -->
 
