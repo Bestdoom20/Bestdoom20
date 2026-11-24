@@ -21,9 +21,9 @@ I run **[Omvion](https://omvion.org)**, a company that builds software and tools
 ---
 
 <!-- START_STATS -->
-I joined GitHub **1** year ago and have since pushed **1,787** commits, opened **1** issues, submitted **11** pull requests, and earned **4** stars across **30** personal projects.
+I joined GitHub **1** year ago and have since pushed **1,787** commits, opened **1** issues, submitted **11** pull requests, and earned **4** stars across **31** personal projects.
 
-I'm currently on a **0**-day commit streak.
+I'm currently on a **1**-day commit streak.
 <!-- END_STATS -->
 
 ---
@@ -106,10 +106,10 @@ I'm currently on a **0**-day commit streak.
 <!-- START_PROJECTS -->
 | Repository | Last Commit | Languages | Description |
 |------------|------------|-----------|-------------|
-| [worldwide-transit](https://github.com/Bestdoom20/worldwide-transit) | 2 days ago | Python, PowerShell, Shell | Agent skill: free public transport trips and departures anywhere in the world (Transitous + official GTFS feeds) |
-| [homelab-ops](https://github.com/Bestdoom20/homelab-ops) | 3 days ago | Python, Lua | Health checks for a home server (services, disk, backups, a GO / NO-GO check before any reboot) plus an e-ink status display for an e-reader. |
-| [hubspot-lead-scoring](https://github.com/Bestdoom20/hubspot-lead-scoring) | 3 days ago | Python | Lead scoring and account cycle for HubSpot: scoring rules, stage and next action per account, a daily list of touches due, and a prospect list builder. Dry run by default. Python standard library only. |
-| [n8n-automation-pack](https://github.com/Bestdoom20/n8n-automation-pack) | 3 days ago | — | Self-hosted n8n in Docker with four workflows: AI lead intake, a scheduled HubSpot pipeline digest, an AI agent with tool calling, and a shared error handler. |
+| [worldwide-transit](https://github.com/Bestdoom20/worldwide-transit) | 3 days ago | Python, PowerShell, Shell | Agent skill: free public transport trips and departures anywhere in the world (Transitous + official GTFS feeds) |
+| [homelab-ops](https://github.com/Bestdoom20/homelab-ops) | 4 days ago | Python, Lua | Health checks for a home server (services, disk, backups, a GO / NO-GO check before any reboot) plus an e-ink status display for an e-reader. |
+| [hubspot-lead-scoring](https://github.com/Bestdoom20/hubspot-lead-scoring) | 4 days ago | Python | Lead scoring and account cycle for HubSpot: scoring rules, stage and next action per account, a daily list of touches due, and a prospect list builder. Dry run by default. Python standard library only. |
+| [n8n-automation-pack](https://github.com/Bestdoom20/n8n-automation-pack) | 4 days ago | — | Self-hosted n8n in Docker with four workflows: AI lead intake, a scheduled HubSpot pipeline digest, an AI agent with tool calling, and a shared error handler. |
 | [glyph](https://github.com/Bestdoom20/glyph) | 1 month ago | HTML, C++, TypeScript, Python | GLYPH — a living kaomoji face that replaces the '...' typing dots in any AI chat |
 | [adler-smp-pack](https://github.com/Bestdoom20/adler-smp-pack) | 1 month ago | — | ADLER SMP server resource pack |
 <!-- END_PROJECTS -->
